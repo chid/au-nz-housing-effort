@@ -1,0 +1,1590 @@
+{{Short description|Local government entities in New Zealand}}
+{{Use New Zealand English|date=August 2019}}
+{{Use dmy dates|date=May 2020}}
+{{Infobox subdivision type
+| name              = Territorial authorities
+| map               = File:Territorial authority areas of New Zealand (1 September 2024–present) (English labels).svg
+| caption       = Map of current territorial authority areas
+| territory         = [[New Zealand]]
+| start_date        = 
+| legislation_begin = 
+| current_number    = 67 (53 district councils, 12 city councils, and 2 other)
+| number_date       = 2025
+| population_range  = 
+| area_range        =  
+}}
+{{Politics of New Zealand|expanded=Local}}
+The '''territorial authorities of New Zealand''' are the country's [[Municipality|municipal]] local government entities, existing alongside the country's [[Regions of New Zealand|regional councils]]. There are 67 such authorities, including 12 city councils, 53 district councils and 2 [[Sui generis|''sui generis'']] councils ([[Auckland Council]] and [[Chatham Islands Council]]). Five territorial authorities{{Efn|[[Auckland Council]], [[Gisborne District Council]], [[Tasman District Council]], [[Nelson City Council]], and [[Marlborough District Council]].}} also have the powers of regional councils, and these are called '''unitary authorities'''.
+
+Territorial authorities are not subservient to regional councils, and several of them have jurisdictions overlapping multiple regional council areas. Territorial authorities are responsible for the administration of local matters and resources. These include roads, building consents, water supply and sanitation, amongst other responsibilities. Non-unitary territorial authorities are not responsible for broader regional environmental management or public transport, as those are the responsibilities of the regional councils.
+
+== History ==
+In 1840 the [[Colonial Office]] was given the authority to divide New Zealand into counties, [[Hundred (county division)|hundreds]], towns, townships, and [[Civil parish|parish]]es. These divisions were to be of set sizes (similar to North American divisions, many of which are rectangular in shape) but this was rarely implemented.<ref>{{cite book | last=Bloomfield | first=Gerald Taylor | title=The Evolution of Local Government Areas in Metropolitan Auckland, 1840–1971 | publisher=[Auckland] : Auckland University Press | publication-place=Auckland | date=1973 | isbn=0-19-647714-X | page=39}}</ref>
+
+===1989 local government reforms===
+For many decades until the [[1989 New Zealand local government reforms|local government reforms of 1989]], a borough with more than 20,000 people could be proclaimed a [[Cities in New Zealand|city]]. The boundaries of councils tended to follow the edge of the built-up area, so little distinction was made between the urban area and the local government area.
+
+New Zealand's local government structural arrangements were significantly reformed by the [[Local Government Commission (New Zealand)|Local Government Commission]] in 1989 when [[List of former territorial authorities in New Zealand|approximately 700 councils and special purpose bodies]] were amalgamated to create 87 new local authorities. Regional councils were reduced in number from 20 to 13, territorial authorities (city/district councils) from 200 to 75, and special purpose bodies from over 400 to 7.<ref>Wallis, J.and Dollery, B. (2000). ''[https://www.une.edu.au/__data/assets/pdf_file/0009/67806/econwp00-7.pdf Local Government Reform in New Zealand]'' Working Paper Series in Economics, No 2000-7, May 2000, {{ISBN|1-86389-682-1}}, University of New England School of Economic Studies, Armidale NSW 2351 Australia. Copyright 2000 by Joe Wallis and Brian Dollery. Retrieved 8 March 2021.</ref> The new district and city councils were generally much larger and most covered substantial areas of both urban and rural land. Many places that once had a city council were now being administered by a district council.
+
+As a result, the term "city" began to take on two meanings.
+
+''City'' also came to be used in a less formal sense to describe major urban areas independent of local body boundaries. This informal usage is jealously guarded. Gisborne, for example, adamantly described itself as the first city in the world to see the new millennium. Gisborne is administered by a district council, but its status as a city is not generally disputed.{{citation needed|date=March 2021}}
+
+Under current law, an urban area has to be at least 50,000 residents before it can be officially proclaimed as a city.<ref>{{cite web |url= http://www.legislation.govt.nz/act/public/2002/0084/latest/DLM4927110.html |title=Local Government Act 2002, Schedule 3 part 16, Cities|work=www.legislation.govt.nz|publisher=Parliamentary Counsel Office|access-date=8 March 2021}}</ref>
+
+===Changes since 1989===
+Since the 1989 reorganisations, there have been few major reorganisations or status changes in local government. Incomplete list:
+* 1991: [[Invercargill, New Zealand|Invercargill]] re-proclaimed a city.
+* 1992: [[Nelson-Marlborough Regional Council]] abolished by a Local Government Amendment Act. Of its territorial authorities, the [[Kaikōura District]] was transferred to the Canterbury Region, and [[Nelson City Council|Nelson City]] and [[Tasman District|Tasman]] and [[Marlborough District|Marlborough]] districts became [[unitary authorities]].
+* 1995: The [[Chatham Islands|Chatham Islands County]] was dissolved and reconstituted by an [[Act of Parliament#New Zealand|Act of Parliament]] as the "Chatham Islands Territory", with powers similar to those of territorial authorities and some functions similar to those of a regional council.<ref>{{cite web |url= http://www.legislation.govt.nz/act/public/1995/0041/latest/DLM367666.html |title=Chatham Islands Council Act 1995 |work=New Zealand Legislation |publisher=New Zealand Government |access-date=21 January 2020}}</ref>
+* 2004: [[Tauranga]] became a city again on 1 March.
+* 2006: The [[Banks Peninsula District]] merged into [[Christchurch]] as a result of a 2005 referendum.
+* 2010: [[Auckland Council]], a unitary authority, replaced seven local councils and the regional council.
+
+Reports on completed reorganisation proposals since 1999 are available on the Local Government Commission's site (link below).
+
+=== 2007–2009 Royal Commission on Auckland Governance ===
+On 26 March 2009, the [[Royal Commission on Auckland Governance]] recommended the Rodney, North Shore, Waitakere, Auckland City, Manukau, Papakura and Franklin territorial councils and the Auckland Regional Council be abolished and the entire Auckland region to be amalgamated into one "supercity".<ref>{{cite news|url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10563984|title=Super-city tipped to save $113m a year |last=Thompson|first=Wayne |date=28 March 2009|work=[[The New Zealand Herald]]|access-date=29 March 2009}}</ref> The area would consist of one city council (with statutory provision for three [[Māori people|Māori]] councillors), four urban local councils, and two rural local councils:
+*Rodney local council would lose Orewa, Dairy Flat, and Whangaparaoa but retain the remainder of the current Rodney District. The split areas as well as the current North Shore City would form a Waitemata local council.
+* Waitakere local council would consist of the current Waitakere City as well as the Avondale area.
+* Tamaki Makaurau would consist of the current Auckland City and Otahuhu (excluding [[Auckland CBD|CBD]])
+* Manukau local council would consist of the urban parts of the current Manukau City and of the Papakura District.
+* Hunua local council would consist of the entire Franklin District, much of which is currently in the Waikato Region, along with rural areas of the current Papakura District and Manukau City.
+* The entire Papakura District would be dissolved between urban and rural councils.
+
+The National-led Government responded within about a week. Its plan, which went to a Select Committee, accepted the proposal for supercity and many community boards, but rejected proposals for local councils and, initially, no [[Māori wards and constituencies|separate seats for Māori]].
+
+Public reaction to the Royal Commission report was mixed, especially in regards to the Government's amended proposal. Auckland Mayor [[John Banks (New Zealand politician)|John Banks]] supported the amended merger plans.<ref>{{cite news|url=http://www.nzherald.co.nz/super-auckland/news/article.cfm?c_id=1501110&objectid=10565780 |title=Proposal 'a great start' says Banks, but other mayors critical – Super City – NZ Herald News |work=[[The New Zealand Herald]] |access-date=13 November 2011 |first=Wayne |last=Thompson |date=8 April 2009}}</ref>
+
+Criticism of the amended proposal came largely from residents in Manukau, Waitakere and North Shore Cities.<ref>{{cite web|url=http://www.stuff.co.nz/auckland/local-news/western-leader/2354900/Protest-gets-backing |title=Protest gets backing |date=30 April 2009 |publisher=[[Stuff (website)|Stuff]] |access-date=13 November 2011}}</ref><ref>{{cite web|url=http://www.stuff.co.nz/auckland/local-news/western-leader/2360213/Marching-for-Waitakere |title=Marching for Waitakere |date=7 May 2009 |publisher=[[Stuff (website)|Stuff]] |access-date=13 November 2011}}</ref><ref>{{cite web|url=http://www.stuff.co.nz/national/2356006/Supercity-protesters-hit-the-streets |title=Supercity protesters hit the streets |publisher=[[Stuff (website)|Stuff]] |date=22 April 2009 |access-date=13 November 2011}}</ref><ref>{{cite web|last=Udanga |first=Romy |url=http://www.stuff.co.nz/auckland/local-news/manukau-courier/2360021/Call-for-a-united-front |title=Call for a united front |date=5 May 2009 |publisher=[[Stuff (website)|Stuff]] |access-date=13 November 2011}}</ref><ref>{{cite web|last=Udanga |first=Romy |url=http://www.stuff.co.nz/auckland/local-news/manukau-courier/2354321/Supercity-fears-emerge |title=Supercity fears emerge |date=5 May 2009 |publisher=[[Stuff (website)|Stuff]] |access-date=13 November 2011}}</ref><ref>{{cite web|last=Kemeys |first=David |url=http://www.stuff.co.nz/auckland/2339294/Who-stole-our-voice |title=Who stole our voice? |date=3 June 2009 |publisher=[[Stuff (website)|Stuff]] |access-date=13 November 2011}}</ref><ref>{{cite news|url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10568426 |title=Govt's super-council leaflets anger mayor |work=[[The New Zealand Herald]] |access-date=13 November 2011 |date=24 April 2009}}</ref> In addition, Māori Affairs Minister [[Pita Sharples]] spoke against the exclusion of the Māori seats, as recommended by the Royal Commission.<ref>{{cite news|url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10565776 |title=Anger rises over lack of Maori seats |work=[[The New Zealand Herald]] |access-date=13 November 2011 |first=Yvonne |last=Tahana |date=8 April 2009}}</ref><ref>{{cite web|last=Kotze |first=Karen |url=http://www.stuff.co.nz/auckland/local-news/east-bays-courier/2349557/Hui-calls-for-representation |title=Hui calls for representation |date=11 May 2009 |publisher=[[Stuff (website)|Stuff]] |access-date=13 November 2011}}</ref> Opposition Leader [[Phil Goff]] called for a referendum on the issue.<ref>{{cite web|url=http://www.scoop.co.nz/stories/PA0904/S00303.htm |title=Let Auckland decide on local government changes &#124; Scoop News |publisher=Scoop.co.nz |date=24 April 2009 |access-date=13 November 2011}}</ref>
+
+=== Creation of Auckland Council ===
+[[Auckland Council]] was created on 1 November 2010—a unitary authority that is classed as both a region and a territorial authority. It incorporated the recommendations of the Royal Commission and was established via legislation.<ref>{{cite web|title=Local Government (Auckland Council) Act 2009 No 32 (as at 10 May 2016), Public Act Contents – New Zealand Legislation|url=http://www.legislation.govt.nz/act/public/2009/0032/latest/DLM2044909.html|publisher=Parliamentary Counsel Office|access-date=5 February 2017|language=en-NZ}}</ref> Auckland Council is uniquely divided into "local boards" representing the lowest tier of local government.<ref>{{cite web |url= https://www.dia.govt.nz/Better-Local-Government |title=Better Local Government |publisher=Department of Internal Affairs |access-date=21 November 2015}}</ref>
+
+===Failed proposed changes===
+* 2015: Proposals to amalgamate local councils in Wellington<ref>{{Cite web |title=LOCAL GOVERNMENT COMMISSION MANA KĀWANATANGA Ā ROHE |url=http://lgc.govt.nz/assets/Uploads/Decision-Greater-Wellington-Regional-Council-8-July-2013.pdf |url-status=dead |archive-url=https://web.archive.org/web/20150114020327/http://lgc.govt.nz/assets/Uploads/Decision-Greater-Wellington-Regional-Council-8-July-2013.pdf |archive-date=2015-01-14}}</ref> and Northland were accepted<ref>{{Cite web |title=LOCAL GOVERNMENT COMMISSION MANA KĀWANATANGA Ā ROHE |url=http://lgc.govt.nz/assets/Uploads/Decision-FarNorthDistrictCouncil-5Mar2013.pdf |url-status=dead |archive-url=https://web.archive.org/web/20150114020350/https://www.lgc.govt.nz/assets/Uploads/Decision-FarNorthDistrictCouncil-5Mar2013.pdf |archive-date=2015-01-14}}</ref> by the Local Government Commission for consideration, although following consultation they ultimately were not formed into a final proposal. The status quo remains.
+* 2015: Amalgamation of four local councils and the regional council in Hawke's Bay was proposed by the Local Government Commission. A district wide referendum was held in Sep-2015, and the proposal was defeated by 66% of voters.<ref>{{cite web |url=http://www.electionz.com/HBRP/HawkesBayReorganisationPollProgressResult150915.pdf |title=Hawke's Bay Reorganisation Poll : PROGRESS RESULT |publisher=Electionz.com |access-date=4 October 2015 |archive-date=4 March 2016 |archive-url=https://web.archive.org/web/20160304185439/http://www.electionz.com/HBRP/HawkesBayReorganisationPollProgressResult150915.pdf |url-status=dead }}</ref>
+* 2015: The Local Government Commission received a proposal to review local government arrangements on the West Coast.  In August 2016 the Commission decided to progress the application.  The Commission then invited alternative applications to the original application. The Commission's call for alternative  reorganisation applications or other proposals for change to West Coast local government arrangements closed on 15 March 2017. The Commission received 23 responses, 19 of which made specific proposals for change. In December 2017 the Local Government Commission determined its preferred option for local government reorganisation on the West Coast to be the transfer of district plan preparation from the Buller, Grey and Westland district councils to the West Coast Regional Council.<ref>{{Cite web|title=West Coast reorganisation application |publisher=New Zealand Local Government Commission|url=http://lgc.govt.nz/local-government-reorganisation/reorganisation-current-applications/view/west-coast-reorganisation?step=main|access-date=2020-09-10|website=www.lgc.govt.nz}} [[File:CC-BY icon.svg|50px]]  Text was copied from this source, which is available under a [https://creativecommons.org/licenses/by/4.0/  Creative Commons Attribution 4.0 International License].</ref>
+* 2017: The Local Government Commission received a proposal to amalgamate the [[Masterton]], [[Carterton, New Zealand|Carterton]] and [[South Wairarapa District]] Councils into a combined [[Wairarapa]] District Council.<ref>{{Cite web|title=Fate of final proposal in Wairarapa's hands |publisher=New Zealand Local Government Commission|url=https://www.lgc.govt.nz/news-and/past-media-releases/fate-of-final-proposal-in-wairarapas-hands/|access-date=2025-12-30|website=www.lgc.govt.nz}}</ref> The proposal was defeated by referendum with 59% of voters rejecting the proposed merger.<ref>{{Cite web|title=Another super-council bites the dust as Wairarapa residents say emphatic no |publisher=Stuff New Zealand |url=https://www.stuff.co.nz/national/politics/99765481/wairarapa-residents-reject-proposal-to-combine-their-three-district-councils|access-date=2025-12-30}}</ref>
+
+===Proposed amalgamation===
+By early May 2026, several district and [[Regions of New Zealand|regional councils]] in [[Northland Region|Northland]], [[Taranaki]], the [[West Coast Region|West Coast]], [[Waikato]], the [[Bay of Plenty Region|Bay of Plenty]], [[Wellington Region|Wellington]] [[Wairarapa]], [[Hawke's Bay]] and [[Southland Region]]s were discussing options to merge into [[unitary authority|unitary authorities]] as part of the [[Sixth National Government of New Zealand|Sixth National Government]]'s policy of "simplifying" local government.<ref>{{cite web |last1=Milne |first1=Jonathan |title=Carrot and stick: Govt backs some councils to merge, others in fight for life |url=https://newsroom.co.nz/2026/05/04/carrot-and-stick-govt-backs-some-councils-to-merge-others-in-fight-for-life/ |website=[[Newsroom (website)|Newsroom]] |access-date=8 May 2026 |archive-url=https://web.archive.org/web/20260507095551/https://newsroom.co.nz/2026/05/04/carrot-and-stick-govt-backs-some-councils-to-merge-others-in-fight-for-life/ |archive-date=7 May 2026 |date=4 May 2026 |url-status=live}}</ref><ref name="Palmer 5 May 2026">{{cite news |last1=Palmer |first1=Russell |title=Government gives councils amalgamation ultimatum |url=https://www.rnz.co.nz/news/political/594289/government-gives-councils-amalgamation-ultimatum |access-date=8 May 2026 |work=[[Radio New Zealand]] |date=5 May 2026 |archive-url=https://web.archive.org/web/20260507095551/https://www.rnz.co.nz/news/political/594289/government-gives-councils-amalgamation-ultimatum |archive-date=7 May 2026 |url-status=live}}</ref> On 5 May, the [[Minister of Local Government (New Zealand)|Local Government Minister]] [[Simon Watts]] and the [[Resource Management Act 1991|RMA Reform]] Minister [[Chris Bishop]] issued local councils with a three-month timeframe to come up with amalgamation plans under the new "Head Start" approach. These amalgamation plans replaced the earlier proposed "combined territorial boards" and would be assessed by the newly-established [[Ministry for Cities, Environment, Regions and Transport]] (MCERT).<ref name="Palmer 5 May 2026" />
+
+The Government's 2026 amalgamation ultimatum received support from several local government leaders including [[Mayor of Nelson]] [[Nick Smith (New Zealand politician)|Nick Smith]], [[Mayor of Southland]] Rob Scott, [[Mayor of Timaru]] Nigel Brown, [[Mayor of South Wairarapa]] [[Dame]] [[Fran Wilde]], [[Mayor of Whangārei]] Ken Couper, [[Mayor of New Plymouth]] Max Brough, and [[Mayor of Invercargill]] Tom Campbell.<ref name="Crimp 6 May 2026">{{cite news |last1=Crimp |first1=Lauren |title=Mayors consider government's amalgamation ultimatum |url=https://www.rnz.co.nz/news/political/594354/mayors-consider-government-s-amalgamation-ultimatum |access-date=8 May 2026 |work=[[Radio New Zealand]] |date=6 May 2026 |archive-url=https://web.archive.org/web/20260506084419/https://www.rnz.co.nz/news/political/594354/mayors-consider-government-s-amalgamation-ultimatum |archive-date=6 May 2026 |url-status=live}}</ref><ref name="Rosenberg 6 May 2026">{{cite news |last1=Rosenberg |first1=Matthew |title=Southland poised for local govt reform |url=https://www.odt.co.nz/southland/southland-poised-local-govt-reform |access-date=8 May 2026 |work=[[Otago Daily Times]] |date=6 May 2026 |archive-url=https://web.archive.org/web/20260505195652/https://www.odt.co.nz/southland/southland-poised-local-govt-reform|archive-date=5 May 2026|url-status=live}}</ref> By contrast, [[Mayor of Gore]] [[Ben Bell]] and [[Mayor of Rotorua]] [[Tania Tapsell]] expressed reservations about merger and the short time-frame.<ref name="Crimp 6 May 2026">{{cite news |last1=Crimp |first1=Lauren |title=Mayors consider government's amalgamation ultimatum |url=https://www.rnz.co.nz/news/political/594354/mayors-consider-government-s-amalgamation-ultimatum |access-date=8 May 2026 |work=[[Radio New Zealand]] |date=6 May 2026 |archive-url=https://web.archive.org/web/20260506084419/https://www.rnz.co.nz/news/political/594354/mayors-consider-government-s-amalgamation-ultimatum |archive-date=6 May 2026 |url-status=live}}</ref><ref>{{cite news |last1=Nash |first1=Matthew |title=Rotorua mayor warns 90-day reform timeline is too short|url=https://www.teaonews.co.nz/2026/05/10/rotorua-mayor-warns-90-day-reform-deadline-is-too-short/ |access-date=13 May 2026 |work=[[Te Ao Māori News]] |date=10 May 2026}}</ref> Meanwhile [[Mayor of Tasman]] Tim King preferred that the central government decide the local government model rather than delegating it to local councils.<ref name="Rosenberg 6 May 2026" /> In addition, several [[Otago]] mayors including [[Mayor of Dunedin]] [[Sophie Barker (mayor)|Sophie Barker]], [[Mayor of Queenstown-Lakes]] John Glover, [[Mayor of Clutha]] Jock Martin, [[Mayor of Waitaki]] Mel Tavendale and [[Mayor of Central Otago]] [[Tamah Alley]] issued a joint statement that their councils were discussing merger options.<ref>{{cite news |last1=Hepburn |first1=Steve |title=Mayors receptive to reform |url=https://www.odt.co.nz/news/dunedin/mayors-receptive-reform |access-date=8 May 2026 |work=[[Otago Daily Times]] |date=6 May 2026|url-access=subscription}}</ref> [[Environment Southland]] chair Jeremy McPhail expressed disappointment that regional councils had been excluded from making proposals on the amalgamation process but said they would continue advocating.<ref name="Rosenberg 6 May 2026" />
+
+== List of territorial authorities ==
+
+=== Current ===
+There are currently 67 territorial authorities. Before the Auckland Council "super merge" in November 2010, there were 73 territorial authorities. Before the [[Banks Peninsula District Council]] merged with the [[Christchurch City Council]] in 2006, there were 74 territorial authorities.
+{{table alignment}}
+{| class="wikitable sortable col1center col4center col7center"
+|-
+![[Coat of arms|CoA]]
+! Territory
+!Authority
+! Seat
+! Area (km²)<ref>{{Cite web|title=Data Table {{!}} Territorial Authority 2020 Clipped (generalised) {{!}} Stats NZ Geographic Data Service|url=https://datafinder.stats.govt.nz/layer/104266-territorial-authority-2020-clipped-generalised/data/|access-date=2020-09-25|website=datafinder.stats.govt.nz}}</ref>
+! {{Abbr|Pop.|Population}}{{efn|Population as of {{NZ population data 2018|||y}} }}
+! [[Regions of New Zealand|Region]]{{efn|Percentages, where shown, are of land area; otherwise 100%|name=landarea}}
+|-
+|[[:File:Far North District Council CoA.png|Link]]
+|[[Far North District|Far North]]
+|[[Far North District Council|District Council]]
+| [[Kaikohe]]
+| align="right" | {{Nts|6684}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Far North district|y}}|R}}}}
+| [[Northland Region|Northland]] 
+|-
+|[[File:Whangārei coat of arms (escutcheon).svg|33x33px]]
+|[[Whangarei District|Whangārei]]
+|[[Whangārei District Council|District Council]]
+| [[Whangārei]]
+| align="right" | {{Nts|2712}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Whangārei district|y}}|R}}}}
+| Northland
+|-
+|None
+|[[Kaipara District|Kaipara]]
+|[[Kaipara District Council|District Council]]
+| [[Dargaville]]
+| align="right" | {{Nts|3109}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Kaipara district|y}}|R}}}}
+| Northland
+|-
+|None
+|[[Auckland]]
+|[[Auckland Council|Council]]
+| [[Auckland]]
+| align="right" | {{Nts|4941}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Auckland council|y}}|R}}}}
+| Auckland
+|-
+|None
+|[[Thames-Coromandel District|Thames-Coromandel]]
+|[[Thames-Coromandel District Council|District Council]]
+| [[Thames, New Zealand|Thames]]
+| align="right" | {{Nts|2207}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Thames-Coromandel district|y}}|R}}}}
+| [[Waikato]]
+|-
+|None
+|[[Hauraki District|Hauraki]]
+|[[Hauraki District Council|District Council]]
+| [[Paeroa]]
+| align="right" | {{Nts|1270}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Hauraki district|y}}|R}}}}
+| Waikato
+|-
+|None
+|[[Waikato District|Waikato]]
+|[[Waikato District Council|District Council]]
+| [[Ngāruawāhia]]
+| align="right" | {{Nts|4404}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Waikato district|y}}|R}}}}
+| Waikato
+|-
+|None
+|[[Matamata-Piako District|Matamata-Piako]]
+|[[Matamata-Piako District Council|District Council]]
+| [[Te Aroha]]
+| align="right" | {{Nts|1755}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Matamata-Piako district|y}}|R}}}}
+| Waikato
+|-
+|[[File:Hamilton coat of arms (escutcheon).svg|33x33px]]
+|[[Hamilton, New Zealand|Hamilton]]
+|[[Hamilton City Council (New Zealand)|City Council]]
+| [[Hamilton, New Zealand|Hamilton]]
+| align="right" | {{Nts|110}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Hamilton city|y}}|R}}}}
+| Waikato
+|-
+|None
+|[[Waipā District|Waipā]]
+|[[Waipā District Council|District Council]]
+| [[Te Awamutu]]
+| align="right" | {{Nts|1470}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Waipa district|y}}|R}}}}
+| Waikato
+|-
+|None
+|[[Ōtorohanga District|Ōtorohanga]]
+|[[Ōtorohanga District Council|District Council]]
+| [[Ōtorohanga]]
+| align="right" | {{Nts|1999}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Ōtorohanga district|y}}|R}}}}
+| Waikato
+|-
+|None
+|[[South Waikato District|South Waikato]]
+|[[South Waikato District Council|District Council]]
+| [[Tokoroa]]
+| align="right" | {{Nts|1819}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|South Waikato district|y}}|R}}}}
+| Waikato
+|-
+|None
+|[[Waitomo District|Waitomo]]
+|[[Waitomo District Council|District Council]]
+| [[Te Kūiti]]
+| align="right" | {{Nts|3535}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Waitomo district|y}}|R}}}}
+| Waikato (94.87%)<br />[[Manawatū-Whanganui]] (5.13%)
+|-
+|None
+|[[Taupō District|Taupō]]
+|[[Taupō District Council|District Council]]
+| [[Taupō]]
+| align="right" | {{Nts|6333}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Taupō district|y}}|R}}}}
+| Waikato (73.74%)<br />[[Bay of Plenty Region|Bay of Plenty]] (14.31%)<br />[[Hawke's Bay Region|Hawke's Bay]] (11.26%)<br />Manawatū-Whanganui (0.69%)
+|-
+|None
+|[[Western Bay of Plenty District|Western Bay of Plenty]]
+|[[Western Bay of Plenty District Council|District Council]]
+| [[Greerton]]{{efn|A suburb of [[Tauranga|Tauranga City]]}}
+| align="right" | {{Nts|1951}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Western Bay of Plenty district|y}}|R}}}}
+| Bay of Plenty
+|-
+|None
+|[[Tauranga]]
+|[[Tauranga City Council|City Council]]
+| [[Tauranga]]
+| align="right" | {{Nts|135}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Tauranga city|y}}|R}}}}
+| Bay of Plenty
+|-
+|[[File:Rotorua District coat of arms.svg|33x33px]]
+|[[Rotorua Lakes District|Rotorua]]
+|[[Rotorua District Council|District Council]]
+| [[Rotorua]]
+| align="right" | {{Nts|2409}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Rotorua district|y}}|R}}}}
+| Bay of Plenty (61.52%)<br />Waikato (38.48%)
+|-
+|None
+|[[Whakatāne District|Whakatāne]]
+|[[Whakatāne District Council|District Council]]
+| [[Whakatāne]]
+| align="right" | {{Nts|4450}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Whakatāne district|y}}|R}}}}
+| Bay of Plenty
+|-
+|[[File:Kawerau coat of arms (escutcheon).svg|33x33px]]
+|[[Kawerau District|Kawerau]]
+|[[Kawerau District Council|District Council]]
+| [[Kawerau]]
+| align="right" | {{Nts|24}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Kawerau district|y}}|R}}}}
+| Bay of Plenty
+|-
+|None
+|[[Ōpōtiki District|Ōpōtiki]]
+|[[Ōpōtiki District Council|District Council]]
+| [[Ōpōtiki]]
+| align="right" | {{Nts|3090}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Ōpōtiki district|y}}|R}}}}
+| Bay of Plenty
+|-
+|[[File:Coat of Arms of Gisborne (escutcheon only).svg|33x33px]]
+|[[Gisborne District|Gisborne]]
+|[[Gisborne District Council|District Council]]
+| [[Gisborne, New Zealand|Gisborne]]
+| align="right" | {{Nts|8385}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Gisborne district|y}}|R}}}}
+| Gisborne
+|-
+|[[:File:Wairoa District Council logo.png|Link]]
+|[[Wairoa District|Wairoa]]
+|[[Wairoa District Council|District Council]]
+| [[Wairoa]]
+| align="right" | {{Nts|4077}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Wairoa district|y}}|R}}}}
+| Hawke's Bay
+|-
+|[[File:Hastings District coat of arms (escutcheon).svg|33x33px]]
+|[[Hastings District, New Zealand|Hastings]]
+|[[Hastings District Council|District Council]]
+| [[Hastings, New Zealand|Hastings]]
+| align="right" | {{Nts|5227}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Hastings district|y}}|R}}}}
+| Hawke's Bay
+|-
+|[[File:Napier coat of arms shield.svg|33x33px]]
+|[[Napier, New Zealand|Napier]]
+|[[Napier City Council|City Council]]
+| [[Napier, New Zealand|Napier]]
+| align="right" | {{Nts|105}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Napier city|y}}|R}}}}
+| Hawke's Bay
+|-
+||[[File:Central Hawke's Bay coat of arms (escutcheon).svg|33x33px]]
+|[[Central Hawke's Bay District|Central Hawke's Bay]]
+|[[Central Hawke's Bay District Council|District Council]]
+| [[Waipawa]]
+| align="right" | {{Nts|3333}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Central Hawke's Bay district|y}}|R}}}}
+| Hawke's Bay
+|-
+|None
+|[[New Plymouth District|New Plymouth]]
+|[[New Plymouth District Council|District Council]]
+| [[New Plymouth]]
+| align="right" | {{Nts|2205}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|New Plymouth district|y}}|R}}}}
+| [[Taranaki]]
+|-
+|None
+|[[Stratford District, New Zealand|Stratford]]
+|[[Stratford District Council|District Council]]
+| [[Stratford, New Zealand|Stratford]]
+| align="right" | {{Nts|2163}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Stratford district|y}}|R}}}}
+| Taranaki (68.13%)<br />Manawatū-Whanganui (31.87%)
+|-
+|None
+|[[South Taranaki District|South Taranaki]]
+|[[South Taranaki District Council|District Council]]
+| [[Hāwera]]
+| align="right" | {{Nts|3575}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|South Taranaki district|y}}|R}}}}
+| Taranaki
+|-
+|None
+|[[Ruapehu District|Ruapehu]]
+|[[Ruapehu District Council|District Council]]
+| [[Taumarunui]]
+| align="right" | {{Nts|6734}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Ruapehu district|y}}|R}}}}
+| Manawatū-Whanganui
+|-
+|[[File:Whanganui coat of arms (escutcheon).svg|32x32px]]
+|[[Whanganui District|Whanganui]]
+|[[Whanganui District Council|District Council]]
+| [[Whanganui]]
+| align="right" | {{Nts|2373}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Whanganui district|y}}|R}}}}
+| Manawatū-Whanganui
+|-
+|None
+|[[Rangitikei District|Rangitikei]]
+|[[Rangitikei District Council|District Council]]
+| [[Marton, New Zealand|Marton]]
+| align="right" | {{Nts|4484}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Rangitikei district|y}}|R}}}}
+| Manawatū-Whanganui (86.37%)<br />Hawke's Bay (13.63%)
+|-
+|[[:File:Manawatū District coat of arms.png|Link]]
+|[[Manawatu District|Manawatū]]
+|[[Manawatu District Council|District Council]]
+| [[Feilding]]
+| align="right" | {{Nts|2657}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Manawatū district|y}}|R}}}}
+| Manawatū-Whanganui
+|-
+|[[File:Palmerston North coat of arms (escutcheon).svg|33x33px]]
+|[[Palmerston North]]
+|[[Palmerston North City Council|City Council]]
+| [[Palmerston North]]
+| align="right" | {{Nts|395}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Palmerston North city|y}}|R}}}}
+| Manawatū-Whanganui
+|-
+|None
+|[[Tararua District|Tararua]]
+|[[Tararua District Council|District Council]]
+| [[Dannevirke]]
+| align="right" | {{Nts|4365}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Tararua district|y}}|R}}}}
+| Manawatū-Whanganui (98.42%)<br />[[Wellington Region|Wellington]] (1.58%)
+|-
+|None
+|[[Horowhenua District|Horowhenua]]
+|[[Horowhenua District Council|District Council]]
+| [[Levin, New Zealand|Levin]]
+| align="right" | {{Nts|1064}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Horowhenua district|y}}|R}}}}
+| Manawatū-Whanganui
+|-
+|None
+|[[Kāpiti Coast District|Kāpiti Coast]]
+|[[Kāpiti Coast District Council|District Council]]
+| [[Paraparaumu]]
+| align="right" | {{Nts|732}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Kapiti Coast district|y}}|R}}}}
+| Wellington
+|-
+|[[File:Porirua coat of arms shield.svg|33x33px]]
+|[[Porirua]]
+|[[Porirua City Council|City Council]]
+| [[Porirua]]
+| align="right" | {{Nts|175}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Porirua city|y}}|R}}}}
+| Wellington
+|-
+|[[File:Upper Hutt coat of arms.svg|33x33px]]
+|[[Upper Hutt]]
+|[[Upper Hutt City Council|City Council]]
+| [[Upper Hutt]]
+| align="right" | {{Nts|540}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Upper Hutt city|y}}|R}}}}
+| Wellington
+|-
+|[[File:Lower Hutt CoA shield.svg|33x33px]]
+|[[Lower Hutt]]
+|[[Hutt City Council|City Council]]
+| [[Lower Hutt]]
+| align="right" | {{Nts|376}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Lower Hutt city|y}}|R}}}}
+| Wellington
+|-
+|[[File:Wellington CoA (shield only).svg|33x33px]]
+|[[Wellington]]
+|[[Wellington City Council|City Council]]
+| [[Wellington]]
+| align="right" | {{Nts|290}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Wellington city|y}}|R}}}}
+| Wellington
+|-
+|[[:File:Masterton CoA.png|Link]]
+|[[Masterton District|Masterton]]
+|[[Masterton District Council|District Council]]
+| [[Masterton]]
+| align="right" | {{Nts|2300}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Masterton district|y}}|R}}}}
+| Wellington
+|-
+|[[:File:Carterton DC common seal.png|Link]]
+|[[Carterton District|Carterton]]
+|[[Carterton District Council|District Council]]
+| [[Carterton, New Zealand|Carterton]]
+| align="right" | {{Nts|1180}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Carterton district|y}}|R}}}}
+| Wellington
+|-
+|None
+|[[South Wairarapa District|South Wairarapa]]
+|[[South Wairarapa District Council|District Council]]
+| [[Martinborough]]
+| align="right" | {{Nts|2387}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|South Wairarapa district|y}}|R}}}}
+| Wellington
+|-
+|None
+|[[Tasman District|Tasman]]
+|[[Tasman District Council|District Council]]
+| [[Richmond, New Zealand|Richmond]]
+| align="right" | {{Nts|9616}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Tasman district|y}}|R}}}}
+| Tasman
+|-
+|[[File:Nelson city coat of arms shield.svg|33x33px]]
+|[[Nelson, New Zealand|Nelson]]
+|[[Nelson City Council|City Council]]
+| [[Nelson, New Zealand|Nelson]]
+| align="right" | {{Nts|422}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Nelson city|y}}|R}}}}
+| Nelson
+|-
+|[[:File:Marlborough District Council CoA.png|Link]]
+|[[Marlborough District|Marlborough]]
+|[[Marlborough District Council|District Council]]
+| [[Blenheim, New Zealand|Blenheim]]
+| align="right" | {{Nts|10458}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Marlborough district|y}}|R}}}}
+| Marlborough
+|-
+|None
+|[[Buller District|Buller]]
+|[[Buller District Council|District Council]]
+| [[Westport, New Zealand|Westport]]
+| align="right" | {{Nts|7943}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Buller district|y}}|R}}}}
+| [[West Coast Region|West Coast]]
+|-
+|[[:File:Grey District Council coat of arms.png|Link]]
+|[[Grey District|Grey]]
+|[[Grey District Council|District Council]]
+| [[Greymouth]]
+| align="right" | {{Nts|3474}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Grey district|y}}|R}}}}
+| West Coast
+|-
+|None
+|[[Westland District|Westland]]
+|[[Westland District Council|District Council]]
+| [[Hokitika]]
+| align="right" | {{Nts|11828}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Westland district|y}}|R}}}}
+| West Coast
+|-
+|None
+|[[Kaikōura District|Kaikōura]]
+|[[Kaikōura District Council|District Council]]
+| [[Kaikōura]]
+| align="right" | {{Nts|2047}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Kaikoura district|y}}|R}}}}
+| [[Canterbury Region|Canterbury]]
+|-
+|None
+|[[Hurunui District|Hurunui]]
+|[[Hurunui District Council|District Council]]
+| [[Amberley, New Zealand|Amberley]]
+| align="right" | {{Nts|8641}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Hurunui district|y}}|R}}}}
+| Canterbury
+|-
+|None
+|[[Waimakariri District|Waimakariri]]
+|[[Waimakariri District Council|District Council]]
+| [[Rangiora]]
+| align="right" | {{Nts|2217}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Waimakariri district|y}}|R}}}}
+| Canterbury
+|-
+|[[File:Christchurch coat of arms shield.svg|33x33px]]
+|[[Christchurch]]
+|[[Christchurch City Council|City Council]]
+| [[Christchurch]]
+| align="right" | {{Nts|1416}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Christchurch city|y}}|R}}}}
+| Canterbury
+|-
+|[[:File:Selwyn District Council CoA.png|Link]]
+|[[Selwyn District|Selwyn]]
+|[[Selwyn District Council|District Council]]
+| [[Rolleston, New Zealand|Rolleston]]
+| align="right" | {{Nts|6381}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Selwyn district|y}}|R}}}}
+| Canterbury
+|-
+|[[File:Ashburton District Coat of Arms.svg|33x33px]]
+|[[Ashburton District|Ashburton]]
+|[[Ashburton District Council|District Council]]
+| [[Ashburton, New Zealand|Ashburton]]
+| align="right" | {{Nts|6182}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Ashburton district|y}}|R}}}}
+| Canterbury
+|-
+|[[File:Timaru coat of arms.svg|33x33px]]
+|[[Timaru District|Timaru]]
+|[[Timaru District Council|District Council]]
+| [[Timaru]]
+| align="right" | {{Nts|2732}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Timaru district|y}}|R}}}}
+| Canterbury
+|-
+|[[:File:Mackenzie District Council coat of arms.png|Link]]
+|[[Mackenzie District|Mackenzie]]
+|[[Mackenzie District Council|District Council]]
+| [[Fairlie, New Zealand|Fairlie]]
+| align="right" | {{Nts|7139}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Mackenzie district|y}}|R}}}}
+| Canterbury
+|-
+|None
+|[[Waimate District|Waimate]]
+|[[Waimate District Council|District Council]]
+| [[Waimate]]
+| align="right" | {{Nts|3554}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Waimate district|y}}|R}}}}
+| Canterbury
+|-
+|None
+|[[Waitaki District|Waitaki]]
+|[[Waitaki District Council|District Council]]
+| [[Oamaru]]
+| align="right" | {{Nts|7108}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Waitaki district|y}}|R}}}}
+| Canterbury (59.61%)<br />[[Otago]] (40.39%)
+|-
+|None
+|[[Central Otago District|Central Otago]]
+|[[Central Otago District Council|District Council]]
+| [[Alexandra, New Zealand|Alexandra]]
+| align="right" | {{Nts|9933}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Central Otago district|y}}|R}}}}
+| Otago
+|-
+|[[:File:Queenstown-Lakes District Council seal.png|Link]]
+|[[Queenstown-Lakes District|Queenstown-Lakes]]
+|[[Queenstown-Lakes District Council|District Council]]
+| [[Queenstown, New Zealand|Queenstown]]
+| align="right" | {{Nts|8720}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Queenstown-Lakes district|y}}|R}}}}
+| Otago
+|-
+|[[File:Dunedin coat of arms (vector based on official emblazonment, alternative).svg|33x33px]]
+|[[Dunedin]]
+|[[Dunedin City Council|City Council]]
+| [[Dunedin]]
+| align="right" | {{Nts|3286}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Dunedin city|y}}|R}}}}
+| Otago
+|-
+|None
+|[[Clutha District|Clutha]]
+|[[Clutha District Council|District Council]]
+| [[Balclutha, New Zealand|Balclutha]]
+| align="right" | {{Nts|6335}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Clutha district|y}}|R}}}}
+| Otago
+|-
+|[[:File:Southland DC CoA.png|Link]]
+|[[Southland District|Southland]]
+|[[Southland District Council|District Council]]
+| [[Invercargill]]
+| align="right" | {{Nts|29552}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Southland district|y}}|R}}}}
+| [[Southland Region|Southland]]
+|-
+|None
+|[[Gore District, New Zealand|Gore]]
+|[[Gore District Council|District Council]]
+| [[Gore, New Zealand|Gore]]
+| align="right" | {{Nts|1254}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Gore district|y}}|R}}}}
+| Southland
+|-
+|[[File:Invercargill coat of arms (escutcheon).svg|31x31px]]
+|[[Invercargill]]
+|[[Invercargill City Council|City Council]]
+| [[Invercargill]]
+| align="right" | {{Nts|390}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Invercargill city|y}}|R}}}}
+| Southland
+|-
+|None
+|[[Chatham Islands]]
+|[[Chatham Islands Council|Council]]
+|[[Waitangi, Chatham Islands|Waitangi]]
+| align="right" | {{Nts|794}}
+| align="right" | {{Nts|{{formatnum:{{NZ population data 2018|Chatham Islands territory|y}}|R}}}}
+|Chatham Islands
+|}
+
+=== Former (post-1989 reforms) ===
+{{table alignment}}
+{| class="wikitable sortable col2left col3left" style="text-align:center"
+|-
+! rowspan="2" |[[Coat of arms|CoA]]
+! rowspan="2" | Territory
+! rowspan="2" |Authority
+! colspan="2" |Existed
+! rowspan="2" | Seat
+! rowspan="2" | [[Regions of New Zealand|Region]]{{efn|name=landarea}}
+! rowspan="2" |Successor
+|-
+!Created
+!Disbanded
+|-
+|None
+|[[Banks Peninsula District|Banks Peninsula]]
+|[[Banks Peninsula District Council|District Council]]
+| rowspan="8" |1 November 1989
+|6 March 2006
+|
+| [[Canterbury Region|Canterbury]]
+|Merged into Christchurch City Council
+|-
+|[[File:Auckland coat of arms shield only.svg|31x31px]]
+|[[Auckland City|Auckland]]
+|[[Auckland City Council|City Council]]
+| rowspan="7" |1 November 2010
+|
+| rowspan="7" |[[Auckland Region|Auckland]]
+| rowspan="7" |Merged into Auckland Council
+|-
+|None
+|[[Rodney District|Rodney]]
+|[[Rodney District Council|District Council]]
+|
+|-
+|None
+|[[North Shore City|North Shore]]
+|[[North Shore CIty Council|City Council]]
+|
+|-
+|[[File:Waitakere City coat of arms.svg|30x30px]]
+|[[Waitakere City|Waitakere]]
+|[[Waitakere City Council|City Council]]
+|
+|-
+|[[File:Manukau coat of arms shield only.svg|29x29px]]
+|[[Manukau City|Manukau]]
+|[[Manukau City Council|City Council]]
+|
+|-
+|None
+|[[Franklin District|Franklin]]
+|[[Franklin District Council|District Council]]
+|
+|-
+|[[:File:Papakura District Council CoA.png|Link]]
+|[[Papakura District|Papakura]]
+|[[Papakura District Council|District Council]]
+|
+|}
+
+== Governance ==
+
+=== Mayors ===
+{{Further|Mayors in New Zealand}}
+The directly elected leaders of territorial authorities are called [[Mayor|mayors]]. They chair local council meetings and have limited [[executive powers]], including the ability to appoint a deputy mayor, establish committees, and select chairpersons for said committees. Their constitutional role, as laid out in the Local Government Act 2002, is to provide leadership to their councillors and citizens of their districts, and to guide the direction of council plans and policies.
+
+===Youth councils===
+Under the terms of the [[Local Government Act 2002]], district councils have to represent the interests of their future communities and consider the views of people affected by their decisions. To fulfill that requirement and give young people a say in the decision-making process, many councils have a youth council.
+<ref name="Renews Apr 2024">{{cite news |last1=Gosavi |first1=Janhavi |date=11 April 2024 |title=Youth voices in local government are under threat |url=https://www.renews.co.nz/youth-voices-in-local-government-are-under-threat/ |url-status=live |archive-url=https://web.archive.org/web/20240419005610/https://www.renews.co.nz/youth-voices-in-local-government-are-under-threat/ |archive-date=19 April 2024 |access-date=19 April 2024 |work=Re |publisher=[[TVNZ]]}}</ref> In late December 2023, the [[Ashburton District Council]] scrapped their youth council, stating they could engage better with younger people online and describing the current youth council as "a youth club where they ate pizza."<ref>{{cite news |last1=Leask |first1=Jonathan |date=27 December 2023 |title=Youth Council axed, labelled as 'a youth club where they ate pizza' |url=https://www.odt.co.nz/star-news/star-districts/youth-council-axed-labelled-youth-club-where-they-ate-pizza |url-status=live |archive-url=https://web.archive.org/web/20231231191634/https://www.odt.co.nz/star-news/star-districts/youth-council-axed-labelled-youth-club-where-they-ate-pizza |archive-date=31 December 2023 |access-date=19 April 2024 |work=[[The Star (Christchurch)|The Star]]}}</ref> In early January 2024, the [[Gore District Council]] opted to restructure its youth council and ruled out dismantling it.<ref>{{cite news |last1=Kelly |first1=Rachael |date=5 January 2024 |title='How can we not continue?' Gore votes to save its youth council |url=https://www.stuff.co.nz/southland-times/133522087/how-can-we-not-continue-gore-votes-to-save-its-youth-council |url-status=live |archive-url=https://web.archive.org/web/20240108201749/https://www.stuff.co.nz/southland-times/133522087/how-can-we-not-continue-gore-votes-to-save-its-youth-council |archive-date=8 January 2024 |access-date=19 April 2024 |work=[[Southland Times]] |publisher=[[Stuff (company)|Stuff]]}}</ref> In April 2024, the [[Whanganui District Council]] proposed scrapping its youth council by June 2024 as part of budget saving measures.<ref name="Renews Apr 2024" />
+
+== Elections ==
+{{Further|Local elections in New Zealand}}
+=== Current composition of elected members ===
+{{table alignment}}
+{| class="wikitable col6center"
+|+
+!Council
+! colspan="2" |[[Mayors in New Zealand|Mayor]]{{Efn|Per relevant council website|name=council website}}
+! colspan="2" |Deputy{{Efn|name=council website}}
+! Councillors{{Efn|name=council website}}
+! colspan="3" |Composition{{Efn|Per [[2025 New Zealand local elections]] unless indicated otherwise}}
+|-
+| rowspan="3" |Far North
+| rowspan="3" {{Party color cell|Independent}}
+| rowspan="3" |Moko Tepania
+| rowspan="3" {{Party color cell|Independent}}
+| rowspan="3" |Kahika Tepania
+| rowspan="3" |10
+| {{Party color cell|Independent}}
+| style="text-align:center" | 9
+|[[Independent politician|Independent]]
+|-
+| {{Party color cell|Your Voice Our Community}}
+| style="text-align:center" | 1
+|Your Voice Our Community
+|-
+| {{Party color cell|ACT Local}} 
+| style="text-align:center" | 1
+|[[ACT Local]]
+|-
+| rowspan="2" |Whangārei
+| rowspan="2" {{Party color cell|Independent}}
+| rowspan="2" |Ken Couper
+| rowspan="2" {{Party color cell|Independent}}
+| rowspan="2" |Scott McKenzie
+| rowspan="2" |13
+| {{Party color cell|Independent}}
+| style="text-align:center" | 13
+|[[Independent politician|Independent]]
+|-
+| {{Party color cell|ACT Local}}
+| style="text-align:center" | 1
+|[[ACT Local]]
+|-
+|Kaipara
+| {{Party color cell|Independent}}
+|Jonathan Larsen
+| {{Party color cell|Independent}}
+|Gordon Lambeth
+|8
+| {{Party color cell|Independent}}
+| style="text-align:center" | 8
+|[[Independent politician|Independent]]
+|-
+| rowspan="9" |Auckland
+| rowspan="9" {{Party color cell|Fix Auckland}}
+| rowspan="9" |[[Wayne Brown (New Zealand politician)|Wayne Brown]]
+| rowspan="9" {{Party color cell|Fix Auckland}}
+| rowspan="9" |[[Desley Simpson]]
+| rowspan="9" |20
+| {{Party color cell|Independent}}
+| style="text-align:center" | 6
+|[[Independent politician|Independent]]
+|-
+| {{Party color cell|New Zealand Labour Party}}
+| style="text-align:center" | 5
+|[[New Zealand Labour Party|Labour]]
+|-
+| {{Party color cell|Fix Auckland}}
+| style="text-align:center" | 3
+|[[Fix Auckland]]
+|-
+| {{Party color cell|MPAT}}
+| style="text-align:center" | 2
+|Manurewa-Papakura Action Team
+|-
+| {{Party color cell|City Vision}}
+| style="text-align:center" | 1
+|[[City Vision]]
+|-
+| {{Party color cell|Putting People First}}
+| style="text-align:center" | 1
+|Putting People First
+|-
+| {{Party color cell|Communities and Residents}}
+| style="text-align:center" | 1
+|[[Communities and Residents]]
+|-
+| {{Party color cell|WestWards}}
+| style="text-align:center" | 1
+|WestWards
+|-
+| {{Party color cell|Team Franklin}}
+| style="text-align:center" | 1
+|Team Franklin
+|-
+|Thames-Coromandel
+| {{Party color cell|Independent}}
+|Peter Revell
+| {{Party color cell|Independent}}
+|John Grant
+|13
+| {{Party color cell|Independent}}
+| style="text-align:center" | 11
+|[[Independent politician|Independent]]
+|-
+|Hauraki
+| {{Party color cell|Independent}}
+|Toby Adams
+| {{Party color cell|Independent}}
+|Paul Milner
+|10
+| {{Party color cell|Independent}}
+| style="text-align:center" | 14
+|[[Independent politician|Independent]]
+|-
+|Waikato
+| {{Party color cell|Independent}}
+|Aksel Bech
+| {{Party color cell|Independent}}
+|Eugene Patterson
+|13
+| {{Party color cell|Independent}}
+| style="text-align:center" | 14
+|[[Independent politician|Independent]]
+|-
+|Matamata-Piako
+| {{Party color cell|Independent}}
+|Ash Tanner
+| {{Party color cell|Independent}}
+|James Sainsbury
+|12
+| {{Party color cell|Independent}}
+| style="text-align:center" | 13
+|[[Independent politician|Independent]]
+|-
+| rowspan="2" |Hamilton
+| rowspan="2" {{Party color cell|Independent}}
+| rowspan="2" |[[Tim Macindoe]]
+| rowspan="2" {{Party color cell|Independent}}
+| rowspan="2" |Geoff Taylor
+| rowspan="2" |14
+| {{Party color cell|Independent}}
+| style="text-align:center" | 10
+|[[Independent politician|Independent]]
+|-
+| {{Party color cell|Better Hamilton}}
+| style="text-align:center" | 4
+|Better Hamilton
+|-
+| rowspan="2" |Waipā
+| rowspan="2" {{Party color cell|Independent}}
+| rowspan="2" |Mike Pettit
+| rowspan="2" {{Party color cell|Independent}}
+| rowspan="2" |Jo Davies-Colley
+| rowspan="2" |11
+| {{Party color cell|Independent}}
+| style="text-align:center" | 11
+|[[Independent politician|Independent]]
+|-
+| {{Party color cell|Better Waipa}}
+| style="text-align:center" | 2
+|Better Waipa
+|-
+|Ōtorohanga
+|{{Party color cell|Independent}}
+|Rodney Dow
+|{{Party color cell|Independent}}
+|Katrina Christison
+|9
+|{{Party color cell|Independent}}
+| style="text-align:center" | 10
+|[[Independent politician|Independent]]
+|-
+|South Waikato
+|{{Party color cell|Independent}}
+|Gary Petley
+|{{Party color cell|Independent}}
+|Maria Te Kanawa
+|10
+|{{Party color cell|Independent}}
+| style="text-align:center" | 11
+|[[Independent politician|Independent]]
+|-
+|Waitomo
+|{{Party color cell|Independent}}
+|[[John Robertson (New Zealand politician, born 1951)|John Robertson]]
+|{{Party color cell|Independent}}
+|Eady Manawaiti
+|6
+|{{Party color cell|Independent}}
+| style="text-align:center" | 7
+|[[Independent politician|Independent]]
+|-
+| rowspan="2" |Taupō
+| rowspan="2" {{Party color cell|Independent}}
+| rowspan="2" |John Funnell
+| rowspan="2" {{Party color cell|Independent}}
+| rowspan="2" |Kevin Taylor
+| rowspan="2" |12
+|{{Party color cell|Independent}}
+| style="text-align:center" | 12
+|[[Independent politician|Independent]]
+|-
+| {{Party color cell|Let's Go Taupō}}
+| style="text-align:center" | 1
+|Let's Go Taupō
+|-
+|Western Bay of Plenty
+| {{Party color cell|Independent}}
+|James Denyer
+| {{Party color cell|Independent}}
+|[[Margaret Murray-Benge]]
+|9
+| {{Party color cell|Independent}}
+| style="text-align:center" | 10
+|[[Independent politician|Independent]]
+|-
+|Tauranga
+| {{Party color cell|Independent}}
+|[[Mahé Drysdale]]
+| {{Party color cell|Independent}}
+|Jen Scoular
+|9
+| {{Party color cell|Independent}}
+| style="text-align:center" | 10
+|[[Independent politician|Independent]]
+|-
+| rowspan="2" |Rotorua Lakes
+| rowspan="2" {{Party color cell|Independent}}
+| rowspan="2" |[[Tania Tapsell]]
+| rowspan="2" {{Party color cell|Independent}}
+| rowspan="2" |Sandra Kai Fong
+| rowspan="2" |10
+|{{Party color cell|Independent}}
+| style="text-align:center" | 10
+|[[Independent politician|Independent]]
+|-
+| {{Party color cell|Te Pāti Māori}}
+| style="text-align:center" | 1
+|[[Te Pāti Māori]]
+|-
+|Whakatāne
+| {{Party color cell|Independent}}
+|[[Nándor Tánczos]]
+| {{Party color cell|Independent}}
+|Julie Jukes
+|10
+| {{Party color cell|Independent}}
+| style="text-align:center" | 11
+|[[Independent politician|Independent]]
+|-
+|Kawerau
+| {{Party color cell|Independent}}
+|Faylene Tunui
+| {{Party color cell|Independent}}
+|Sela Kingi
+|8
+| {{Party color cell|Independent}}
+| style="text-align:center" | 9
+|[[Independent politician|Independent]]
+|-
+|Ōpōtiki
+| {{Party color cell|Independent}}
+|David Moore
+| {{Party color cell|Independent}}
+|Maude Maxwell
+|7
+| {{Party color cell|Independent}}
+| style="text-align:center" | 8
+|[[Independent politician|Independent]]
+|-
+|Gisborne
+| {{Party color cell|Independent}}
+|Rehette Stoltz
+| {{Party color cell|Independent}}
+|Aubrey Ria
+|13
+| {{Party color cell|Independent}}
+| style="text-align:center" | 14
+|[[Independent politician|Independent]]
+|-
+|Wairoa
+| {{Party color cell|Independent}}
+|Craig Little
+| {{Party color cell|Independent}}
+|Benita Cairns
+|6
+| {{Party color cell|Independent}}
+| style="text-align:center" | 7
+|[[Independent politician|Independent]]
+|-
+| rowspan="3" |Hastings
+| rowspan="3" {{Party color cell|Independent}}
+| rowspan="3" |Wendy Schollum
+| rowspan="3" {{Party color cell|Independent}}
+| rowspan="3" |Michael Fowler
+| rowspan="3" |15
+| {{Party color cell|Independent}}
+| style="text-align:center" | 14
+|[[Independent politician|Independent]]
+|-
+| {{Party color cell|Ind Green (NZ)}}
+| style="text-align:center" | 1
+|[[Green Party of Aotearoa New Zealand|Independent Green]]
+|-
+| {{Party color cell|CARE for Hastings}}
+| style="text-align:center" | 1
+|CARE for Hastings
+|-
+|Napier
+|{{Party color cell|Independent}}
+|Richard McGrath
+|{{Party color cell|Independent}}
+|Sally Crown
+|11
+|{{Party color cell|Independent}}
+| style="text-align:center" | 12
+|[[Independent politician|Independent]]
+|-
+|Central Hawke's Bay
+|{{Party color cell|Independent}}
+|Will Foley
+|{{Party color cell|Independent}}
+|Jerry Greer
+|9
+|{{Party color cell|Independent}}
+| style="text-align:center" | 10
+|[[Independent politician|Independent]]
+|-
+| rowspan="2" |New Plymouth
+| rowspan="2"{{Party color cell|Independent}}
+| rowspan="2" |Max Brough
+| rowspan="2"{{Party color cell|Independent}}
+| rowspan="2" |Murray Chong
+| rowspan="2" |14
+|{{Party color cell|Independent}}
+| style="text-align:center" | 14
+|[[Independent politician|Independent]]
+|-
+| {{Party color cell|ACT Local}}
+| style="text-align:center" | 1
+|[[ACT Local]]
+|-
+|Stratford
+|{{Party color cell|Independent}}
+|Neil Volzke
+|{{Party color cell|Independent}}
+|Amanda Harris
+|11
+|{{Party color cell|Independent}}
+| style="text-align:center" | 12
+|[[Independent politician|Independent]]
+|-
+|South Taranaki
+|{{Party color cell|Independent}}
+|Phil Nixon
+|{{Party color cell|Independent}}
+|Rob Northcott
+|13
+|{{Party color cell|Independent}}
+| style="text-align:center" | 14
+|[[Independent politician|Independent]]
+|-
+|Ruapehu
+|{{Party color cell|Independent}}
+|Weston Kirton
+|{{Party color cell|Independent}}
+|Brenda Ralph
+|9
+|{{Party color cell|Independent}}
+| style="text-align:center" | 10
+|[[Independent politician|Independent]]
+|-
+|Whanganui
+|{{Party color cell|Independent}}
+|Andrew Tripe
+|{{Party color cell|Independent}}
+|Michael Law
+|12
+|{{Party color cell|Independent}}
+| style="text-align:center" | 13
+|[[Independent politician|Independent]]
+|-
+|Rangitikei
+|{{Party color cell|Independent}}
+|[[Andy Watson (mayor)|Andy Watson]]
+|{{Party color cell|Independent}}
+|Dave Wilson
+|11
+|{{Party color cell|Independent}}
+| style="text-align:center" | 12
+|[[Independent politician|Independent]]
+|-
+| rowspan="3" |Manawatū
+| rowspan="3" {{Party color cell|Independent}}
+| rowspan="3" |Michael Ford
+| rowspan="3" {{Party color cell|Independent}}
+| rowspan="3" |Grant Hadfield
+| rowspan="3" |11
+|{{Party color cell|Independent}}
+| style="text-align:center" | 11
+|[[Independent politician|Independent]]
+|-
+| {{Party color cell|ACT Local}} 
+| style="text-align:center" | 1
+|[[ACT Local]]
+|-
+| {{Party color cell|Ind Green (NZ)}}
+|1
+|[[Green Party of Aotearoa New Zealand|Independent Green]]
+|-
+| rowspan="4" |Palmerston North
+| rowspan="4"{{Party color cell|Independent}}
+| rowspan="4" |[[Grant Smith (politician)|Grant Smith]]
+| rowspan="4" {{Party color cell|Te Pāti Māori}}
+| rowspan="4" |Debi Marshall-Lobb
+| rowspan="4" |15
+|{{Party color cell|Independent}}
+| style="text-align:center" | 13
+|[[Independent politician|Independent]]
+|-
+|{{Party color cell|Green Party of Aotearoa New Zealand}}
+| style="text-align:center" | 2
+|[[Green Party of Aotearoa New Zealand|Green]]
+|-
+|{{Party color cell|New Zealand Labour Party}}
+| style="text-align:center" | 1
+|[[New Zealand Labour Party|Labour]]
+|-
+|{{Party color cell|Te Pāti Māori}}
+| style="text-align:center" | 1
+|[[Te Pāti Māori]]
+|-
+|Tararua
+|{{Party color cell|Independent}}
+|Scott Gilmore
+|{{Party color cell|Independent}}
+|Sharon Wards
+|9
+|{{Party color cell|Independent}}
+| style="text-align:center" | 10
+|[[Independent politician|Independent]]
+|-
+|Horowhenua
+|{{Party color cell|Independent}}
+|Bernie Wanden
+|{{Party color cell|Independent}}
+|David Allan
+|12
+|{{Party color cell|Independent}}
+| style="text-align:center" | 13
+|[[Independent politician|Independent]]
+|-
+| rowspan="2" |Kāpiti Coast
+| rowspan="2"{{Party color cell|Independent}}
+| rowspan="2" |Janet Holborow
+| rowspan="2"{{Party color cell|Independent}}
+| rowspan="2" |Martin Halliday
+| rowspan="2" |10
+|{{Party color cell|Independent}}
+| style="text-align:center" | 10
+|[[Independent politician|Independent]]
+|-
+|{{Party color cell|Te Pāti Māori}}
+| style="text-align:center" | 1
+|[[Te Pāti Māori]]
+|-
+| rowspan="2" |Porirua
+| rowspan="2"{{Party color cell|Independent}}
+| rowspan="2" |[[Anita Baker (New Zealand politician)|Anita Baker]]
+| rowspan="2"{{Party color cell|Independent}}
+| rowspan="2" |Kylie Wihapi
+| rowspan="2" |10
+|{{Party color cell|Independent}}
+| style="text-align:center" | 9
+|[[Independent politician|Independent]]
+|-
+|{{Party color cell|New Zealand Labour Party}}
+| style="text-align:center" | 2
+|[[New Zealand Labour Party|Labour]]
+|-
+|Upper Hutt
+|{{Party color cell|Independent}}
+|Peri Zee
+|{{Party color cell|Independent}}
+|Corey White
+|10
+|{{Party color cell|Independent}}
+| style="text-align:center" | 11
+|[[Independent politician|Independent]]
+|-
+| rowspan="3" |Hutt
+| rowspan="3"{{Party color cell|Independent}}
+| rowspan="3" |[[Ken Laban]]
+| rowspan="3"{{Party color cell|New Zealand Labour Party}}
+| rowspan="3" |Keri Brown
+| rowspan="3" |12
+|{{Party color cell|Independent}}
+| style="text-align:center" | 11
+|[[Independent politician|Independent]]
+|-
+|{{Party color cell|New Zealand Labour Party}}
+| style="text-align:center" | 1
+|[[New Zealand Labour Party|Labour]]
+|-
+| {{Party color cell|Ind Green (NZ)}}
+| style="text-align:center" | 1
+|[[Green Party of Aotearoa New Zealand|Independent Green]]
+|-
+| rowspan="4" |Wellington
+| rowspan="4" {{Party color cell|New Zealand Labour Party}}
+| rowspan="4" |[[Andrew Little (New Zealand politician)|Andrew Little]]
+| rowspan="4" {{Party color cell|New Zealand Labour Party}}
+| rowspan="4" | [[Ben McNulty]]
+| rowspan="4" |15
+|{{Party color cell|New Zealand Labour Party}}
+| style="text-align:center" | 6
+|[[New Zealand Labour Party|Labour]]
+|-
+|{{Party color cell|Independent}}
+| style="text-align:center" | 5
+|[[Independent politician|Independent]]
+|-
+|{{Party color cell|Green Party of Aotearoa New Zealand}}
+| style="text-align:center" | 4
+|[[Green Party of Aotearoa New Zealand|Green]]
+|-
+| {{Party color cell|Independent Together}}
+| style="text-align:center" | 1
+|[[Independent Together]]
+|-
+|Masterton
+|{{Party color cell|Independent}}
+|Bex Johnson
+|{{Party color cell|Independent}}
+|Craig Bowyer
+|8
+|{{Party color cell|Independent}}
+| style="text-align:center" | 9
+|[[Independent politician|Independent]]
+|-
+|Carterton
+|{{Party color cell|Independent}}
+|Steve Cretney
+|{{Party color cell|Independent}}
+|Grace Ayling
+|8
+|{{Party color cell|Independent}}
+| style="text-align:center" | 9
+|[[Independent politician|Independent]]
+|-
+|South Wairarapa
+|{{Party color cell|Independent}}
+|[[Fran Wilde]]
+|{{Party color cell|Independent}}
+|Rob Taylor
+|10
+|{{Party color cell|Independent}}
+| style="text-align:center" | 11
+|[[Independent politician|Independent]]
+|-
+| rowspan="2" |Tasman
+| rowspan="2"{{Party color cell|Independent}}
+| rowspan="2" |Tim King
+| rowspan="2"{{Party color cell|Independent}}
+| rowspan="2" |Brent Maru
+| rowspan="2" |14
+|{{Party color cell|Independent}}
+| style="text-align:center" | 13
+|[[Independent politician|Independent]]
+|-
+| style="background:darkblue" |
+| style="text-align:center" | 2
+|Sensible, Affordable and Ethical
+|-
+| rowspan="2" |Nelson
+| rowspan="2"{{Party color cell|Independent}}
+| rowspan="2" |[[Nick Smith (New Zealand politician)|Nick Smith]]
+| rowspan="2" {{Party color cell|Independent}}
+| rowspan="2" |Pete Rainey
+| rowspan="2" |12
+|{{Party color cell|Independent}}
+| style="text-align:center" | 12
+|[[Independent politician|Independent]]
+|-
+|{{Party color cell|New Zealand Labour Party}}
+| style="text-align:center" | 1
+|[[New Zealand Labour Party|Labour]]
+|-
+| rowspan="2" |Marlborough
+| rowspan="2" {{Party color cell|Independent}}
+| rowspan="2" |Nadine Taylor
+| rowspan="2" {{Party color cell|Independent}}
+| rowspan="2" |David Croad
+| rowspan="2" |14
+|{{Party color cell|Independent}}
+| style="text-align:center" | 13
+|[[Independent politician|Independent]]
+|-
+| {{Party color cell|ACT Local}}
+| style="text-align:center" | 2
+|[[ACT Local]]
+|-
+|Buller
+|{{Party color cell|Independent}}
+|Chris Russell
+|{{Party color cell|Independent}}
+|Shayne Barry
+|10
+|{{Party color cell|Independent}}
+| style="text-align:center" | 11
+|[[Independent politician|Independent]]
+|-
+|Grey
+|{{Party color cell|Independent}}
+|Tania Gibson
+|{{Party color cell|Independent}}
+|Allan Gibson
+|8
+|{{Party color cell|Independent}}
+| style="text-align:center" | 9
+|[[Independent politician|Independent]]
+|-
+|Westland
+|{{Party color cell|Independent}}
+|Helen Lash
+|{{Party color cell|Independent}}
+|Reilly Burden
+|8
+|{{Party color cell|Independent}}
+| style="text-align:center" | 9
+|[[Independent politician|Independent]]
+|-
+|Kaikōura
+|{{Party color cell|Independent}}
+|Craig Mackle
+|{{Party color cell|Independent}}
+|Vicki Gulleford
+|7
+|{{Party color cell|Independent}}
+| style="text-align:center" | 8
+|[[Independent politician|Independent]]
+|-
+|Hurunui
+|{{Party color cell|Independent}}
+|Marie Black
+|{{Party color cell|Independent}}
+|Fiona Harris
+|10
+|{{Party color cell|Independent}}
+| style="text-align:center" | 11
+|[[Independent politician|Independent]]
+|-
+| rowspan="2" |Waimakariri
+| rowspan="2" {{Party color cell|Independent}}
+| rowspan="2" |Dan Gordon
+| rowspan="2" {{Party color cell|Independent}}
+| rowspan="2" |Philip Redmond
+| rowspan="2" |10
+|{{Party color cell|Independent}}
+| style="text-align:center" | 10
+|[[Independent politician|Independent]]
+|-
+| {{Party color cell|Standing Together for Waimakariri}}
+| style="text-align:center" | 1
+|Standing Together
+|-
+| rowspan="5" |Christchurch
+| rowspan="5" {{Party color cell|Independent}}
+| rowspan="5" |[[Phil Mauger]]
+| rowspan="5" {{Party color cell|Independent}}
+| rowspan="5" |Victoria Henstock
+| rowspan="5" |16
+|{{Party color cell|Independent}}
+| style="text-align:center" | 8
+|[[Independent politician|Independent]]
+|-
+| {{Party color cell|The People's Choice (political ticket)}}
+| style="text-align:center" | 4
+|[[The People's Choice (political ticket)|The People's Choice]]
+|-
+| {{Party color cell|The People's Choice (political ticket)}}
+| style="text-align:center" | 2
+|[[The People's Choice (political ticket)|The People's Choice]] – [[New Zealand Labour Party|Labour]]
+|-
+|{{Party color cell|Independent Citizens}}
+| style="text-align:center" | 2
+|[[Independent Citizens]]
+|-
+|{{Party color cell|New Zealand Labour Party}}
+| style="text-align:center" | 1
+|[[New Zealand Labour Party|Labour]]
+|-
+|Selwyn
+|{{Party color cell|Independent}}
+|Lydia Gliddon
+|{{Party color cell|Independent}}
+|Brendan Shefford
+|10
+|{{Party color cell|Independent}}
+| style="text-align:center" | 11
+|[[Independent politician|Independent]]
+|-
+|Ashburton
+|{{Party color cell|Independent}}
+|Liz McMillan
+|{{Party color cell|Independent}}
+|Richard Wilson
+|9
+|{{Party color cell|Independent}}
+| style="text-align:center" | 10
+|[[Independent politician|Independent]]
+|-
+|Timaru
+|{{Party color cell|Independent}}
+|Nigel Bowen
+|{{Party color cell|Independent}}
+|Scott Shannon
+|9
+|{{Party color cell|Independent}}
+| style="text-align:center" | 10
+|[[Independent politician|Independent]]
+|-
+|Mackenzie
+|{{Party color cell|Independent}}
+|Scott Aronsen
+|{{Party color cell|Independent}}
+|Scott McKenzie 
+|7
+|{{Party color cell|Independent}}
+| style="text-align:center" | 8
+|[[Independent politician|Independent]]
+|-
+|Waimate
+|{{Party color cell|Independent}}
+|Craig Rowley
+|{{Party color cell|Independent}}
+|Sandy McAlwee
+|8
+|{{Party color cell|Independent}}
+| style="text-align:center" | 9
+|[[Independent politician|Independent]]
+|-
+|Waitaki
+|{{Party color cell|Independent}}
+|Melanie Tavendale
+|{{Party color cell|Independent}}
+|Rebecca Ryan
+|10
+|{{Party color cell|Independent}}
+| style="text-align:center" | 11
+|[[Independent politician|Independent]]
+|-
+|Central Otago
+|{{Party color cell|Independent}}
+|[[Tamah Alley]]
+|{{Party color cell|Independent}}
+|Tracy Paterson
+|10
+|{{Party color cell|Independent}}
+| style="text-align:center" | 11
+|[[Independent politician|Independent]]
+|-
+|Queenstown-Lakes
+|{{Party color cell|Independent}}
+|John Glover
+|{{Party color cell|Independent}}
+|Quentin Smith
+|11
+|{{Party color cell|Independent}}
+| style="text-align:center" | 12
+|[[Independent politician|Independent]]
+|-
+| rowspan="5" |Dunedin
+| rowspan="5" {{Party color cell|Independent}}
+| rowspan="5" |[[Sophie Barker (mayor)|Sophie Barker]]
+| rowspan="5" {{Party color cell|Independent}}
+| rowspan="5" |Cherry Lucas
+| rowspan="5" |14
+|{{Party color cell|Independent}}
+| style="text-align:center" | 11
+|[[Independent politician|Independent]]
+|-
+|{{Party color cell|Future Dunedin}}
+| style="text-align:center" | 1
+|[[Future Dunedin]]
+|-
+|{{Party color cell|Building Kotahitaka}}
+| style="text-align:center" | 1
+|[[Building Kotahitaka]]
+|-
+|{{Party color cell|New Zealand Labour Party}}
+| style="text-align:center" | 1
+|[[New Zealand Labour Party|Labour]]
+|-
+|{{Party color cell|Green Party of Aotearoa New Zealand}}
+| style="text-align:center" | 1
+|[[Green Party of Aotearoa New Zealand|Green]]
+|-
+|Clutha
+|{{Party color cell|Independent}}
+|Jock Martin
+|{{Party color cell|Independent}}
+|Michele Kennedy
+|9
+|{{Party color cell|Independent}}
+| style="text-align:center" | 10
+|[[Independent politician|Independent]]
+|-
+|Southland
+|{{Party color cell|Independent}}
+|Rob Scott
+|{{Party color cell|Independent}}
+|Christine Menzies
+|12
+|{{Party color cell|Independent}}
+| style="text-align:center" | 13
+|[[Independent politician|Independent]]
+|-
+|Gore
+|{{Party color cell|Independent}}
+|[[Ben Bell]]
+|{{Party color cell|Independent}}
+|Joe Stringer
+|11
+|{{Party color cell|Independent}}
+| style="text-align:center" | 12
+|[[Independent politician|Independent]]
+|-
+|Invercargill
+|{{Party color cell|Independent}}
+|Tom Campbell
+|{{Party color cell|Independent}}
+|Grant Dermody
+|12
+|{{Party color cell|Independent}}
+| style="text-align:center" | 13
+|[[Independent politician|Independent]]
+|-
+|Chatham Islands
+|{{Party color cell|Independent}}
+|Greg Horler
+|{{Party color cell|Independent}}
+|Celine Gregory-Hunt
+|8
+|{{Party color cell|Independent}}
+| style="text-align:center" | 9
+|[[Independent politician|Independent]]
+|}
+
+== Community and local boards ==
+{{Main|Community boards in New Zealand|Local boards of Auckland Council}}
+
+{{Infobox subdivision type
+| name = Community and local boards
+| map = {{Switcher
+| [[File:Community board areas of New Zealand.svg|250px]]
+| Community boards
+| [[File:Local Boards of Auckland (2025–present).svg|250px]]
+| Local boards
+}}
+| territory = [[New Zealand]]
+| start_date = 
+| legislation_begin = 
+| current_number = {{unbulleted list|111 community boards|21 local boards}}
+| number_date = 2025
+| population_range = 
+| area_range = 
+}}
+Any territorial authority can set up subdivisions of itself to represent specific communities, known as community or local boards. These were first established as part of the [[1989 New Zealand local government reforms|1989 local government reforms]], and are currently defined by the [[Local Government Act 2002]].
+
+Community boards are sub-district, unincorporated [[Local government in New Zealand|local government bodies]] that may be established for any contiguous area in a territorial authority district.<ref name="guide">{{cite web |title=Guide to Community Boards |url=https://d1pepq1a2249p5.cloudfront.net/media/documents/Guide-to-Community-Boards_lnYCnFf.pdf |publisher=[[Local Government New Zealand]] |access-date=23 June 2025 |archive-url=https://d1pepq1a2249p5.cloudfront.net/media/documents/The-Good-Governance-Guide_3yAsbLi.pdf |archive-date=23 February 2025}}</ref> They are intended to represent and advocate for specific communities within a council catchment area. {{As of|2025}}, there are around 110 community boards across New Zealand.<ref>{{cite web |title=Community boards |url=https://www.lgnz.co.nz/local-government-in-nz/community-boards/ |website=www.lgnz.co.nz |publisher=[[Local Government New Zealand]] |access-date=23 June 2025 |archive-url=https://web.archive.org/web/20250429011758/https://www.lgnz.co.nz/local-government-in-nz/community-boards/ |archive-date=29 April 2025 |language=en-NZ}}</ref>
+
+Local boards have greater powers than community boards. {{As of|2025}}, [[Auckland Council]] is the only territorial authority in New Zealand with local boards,<ref name="LGNZ"/> which were established by the Local Government (Auckland Council) Act 2009.
+
+Auckland Council has 21 local boards covering the entire city which provide governance at the local level and are responsible for libraries and other community facilities, local parks and events, and have the power to develop local by-laws or propose local targeted rates.<ref name="LGNZ">{{cite web |title=Councils in Aotearoa |url=https://www.lgnz.co.nz/local-government-in-nz/councils-in-aotearoa/ |website=www.lgnz.co.nz |publisher=[[Local Government New Zealand]] |access-date=23 June 2025 |language=en-NZ}}</ref> Each local board has 5 to 9 elected members, with 149 local board members across all boards.<ref>{{cite web |title=About local boards |url=https://www.aucklandcouncil.govt.nz/about-auckland-council/how-auckland-council-works/local-boards/Pages/about-local-boards.aspx |website=www.aucklandcouncil.govt.nz |publisher=Auckland Council |access-date=23 June 2025 |language=en}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Administrative divisions of New Zealand}}
+{{Articles on first-level administrative divisions of Oceanian countries}}
+{{Territorial Authorities of New Zealand|state=expanded}}
+
+[[Category:Territorial authorities of New Zealand| ]]
+[[Category:Lists of subdivisions of New Zealand|Territorial authorities]]
+[[Category:Administrative divisions in Oceania|New Zealand 2]]
