@@ -64,6 +64,23 @@ for ax, df, r, col, title in [(axes[0], au, res_au, AU, 'Australia, 50 labour-ma
 plt.tight_layout()""")
 md("**Try:** swap `eff` for `eff_unit` (units only) or `eff_house` (houses only) in Australia, or raise `k` in `iqr_outliers` to see how sensitive the cleaned R² is.")
 code("""pd.DataFrame({k: fit_density(au, y=k) for k in ['eff', 'eff_unit', 'eff_house']}).T[['n','slope','r2','r2_clean','outliers']]""")
+md("""### Robustness: how much of the AU/NZ contrast is the sparse end, or the unit?
+Australia has eight regions sparser than the sparsest NZ district. Refit without them, and compare rank correlations (which do not depend on the log-linear form) and a size measure (ln jobs) that does not depend on where boundaries are drawn. Also the standardised coefficients of the AU density + tourism model.""")
+code("""lo = nz.dens.min(); core = au[au.dens >= lo]
+sets = [('AU, all 50', au, 'workers_pow_2021'), (f'AU, without the {len(au) - len(core)} regions sparser than any NZ district', core, 'workers_pow_2021'), ('NZ, 57 (metros merged)', nz, 'employees')]
+rob = pd.DataFrame({k: {'n': len(d), 'R² ln(density)': ols([np.log(d.dens.values)], d.eff.values)[1], 'Spearman density': d.dens.rank().corr(d.eff.rank()),
+                        'R² ln(jobs)': ols([np.log(d[w].values)], d.eff.values)[1], 'R² density, job-weighted': np.nan} for k, d, w in sets}).T
+for k, d, w in sets:   # weighted least squares, weights = jobs
+    X = np.column_stack([np.log(d.dens.values), np.ones(len(d))]); sw = np.sqrt(d[w].values); bw, *_ = np.linalg.lstsq(X*sw[:, None], d.eff.values*sw, rcond=None)
+    ww = d[w].values; e = d.eff.values - X @ bw; rob.loc[k, 'R² density, job-weighted'] = 1 - (ww*e**2).sum() / (ww*(d.eff.values - (ww*d.eff.values).sum()/ww.sum())**2).sum()
+bm = ols([np.log(au.dens.values), au.accfood.values], au.eff.values)[0]
+print('AU standardised coefficients: density %.2f, tourism proxy %.2f; corr(ln density, tourism proxy) %.2f' % (bm[0]*np.log(au.dens).std()/au.eff.std(), bm[1]*au.accfood.std()/au.eff.std(), np.corrcoef(np.log(au.dens), au.accfood)[0, 1]))
+print('AU tourism-only R² without the sparse regions: %.2f; density + tourism: %.2f' % (ols([core.accfood.values], core.eff.values)[1], ols([np.log(core.dens.values), core.accfood.values], core.eff.values)[1]))
+print('regions dropped:', list(au.index[au.dens < lo])); rob.astype(float).round(2)""")
+md("""* The Australian R² of 0.42 leans on the outback. Without the eight regions sparser than any NZ district it is **0.23** (n = 42), and the tourism proxy alone then explains more (0.32) than density.
+* NZ is weak, not zero: the rank correlation is 0.28, and weighting districts by jobs lifts R² from 0.04 to 0.15 (a fit that Auckland dominates). NZ density is noisy because it depends on how tightly each district is drawn (Kawerau 110 and Invercargill 77 jobs/km², against 27 for the merged Christchurch metro).
+* The contrast between the countries survives (0.23 against 0.04 on a comparable density range), but it is smaller than the headline 0.42 against 0.04.
+* These are unweighted cross-sectional fits with no coast, amenity or supply variable. They describe a pattern; they do not show that density causes effort.""")
 md("## 3. Why NZ differs\nSplit effort into numerator and denominator. Elasticity = change in log price (or log wage) per unit change in log density. Then test population growth as the demand measure.")
 code("""raw_nz = pd.read_csv(RAW/'nz'/'nz_raw.csv', index_col=0).drop(index=['Chatham Islands']).dropna()
 raw_nz['dens'] = raw_nz.employees / raw_nz.area_km2; raw_nz['eff'] = raw_nz.median_sale_price / raw_nz.wage
@@ -87,6 +104,7 @@ print(f'growth only R² {r2:.2f}; density + growth R² {r2b:.2f}')
 ax = d.plot.scatter('pop_growth', 'eff', color=NZ, s=28); xs = np.linspace(d.pop_growth.min(), d.pop_growth.max(), 10); ax.plot(xs, b[0]*xs + b[1], '--', color=NZ)
 for n in d.sort_values('eff').tail(5).index: ax.annotate(n, (d.pop_growth[n], d.eff[n]), fontsize=8, xytext=(4, 4), textcoords='offset points')
 ax.set_xlabel('population growth 2013–2023 (%)'); ax.set_ylabel('years of wage per dwelling'); ax.set_title('NZ districts: growth predicts effort');""")
+md("""Caveats on this section. The two wage measures are different things: the AU figure is a median employee income by place of residence (ATO), while the NZ figure is built from industry medians weighted by each district's industry mix, so it varies across districts only through industry mix and industry medians. The wage elasticities are indicative. The growth fit is a correlation (growth and high prices may both follow amenity), and it falls from 0.49 to 0.32 without Queenstown-Lakes. Australia cannot be tested on the same 10-year window, because ABS Data by Region population starts in 2020.""")
 md("## 4. Mortgage simulator\nThe original's assumptions: 90% LTV, 4% interest, 45% of net pay (net ≈ 70% of gross), one earner. `inf` = the payment never covers the interest. Change the defaults below.")
 code("""def years_to_repay(effort, earners=1, rate=0.04, ltv=0.9, dsti=0.45, net=0.7):
     L = ltv * effort; P = dsti * net * earners / 12; r = rate / 12
@@ -139,7 +157,7 @@ import os; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__))); impor
 md("""## 12. Open questions
 * **Supply.** Add dwelling stock or building consents per worker (ABS building approvals by SA2; Stats NZ consents by TA) to test the mechanism instead of density as a proxy.
 * **Dwelling mix.** Control for the house/unit share (AU) or floor area (NZ consents give new-build floor area) to separate composition from price.
-* **NZ interest rates.** Section 12 does AU only; RBNZ table B20 (blocked to scripts) would extend it to NZ.
+* **NZ interest rates.** Section 11 does AU only; RBNZ table B20 (blocked to scripts) would extend it to NZ.
 * **Workplace vs residence.** Australian wages are by residence (ATO). The Census WPP has income by place of work in bands, which could replace them.
 * **Longer AU regional history.** ABS Data by Region only has regional prices from 2020; state Valuer-General sales files (NSW from 1990, Vic) could extend this.""")
 code("""# Rebuild everything from raw/ (outputs written next to the inputs):
